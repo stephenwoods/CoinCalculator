@@ -1,0 +1,27 @@
+{
+  "name": "CoinCalculator",
+  "version": "1.0.0",
+  "description": "A simple program that gets the minimum number of coins needed for an amount of USD, using certain coin denominations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stephenwoods/coincalculator"
+  },
+  "author": "Stephen Woods",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephenwoods/coincalculator/issues"
+  },
+  "homepage": "https://github.com/stephenwoods/coincalculator",
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.12"
+  },
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
